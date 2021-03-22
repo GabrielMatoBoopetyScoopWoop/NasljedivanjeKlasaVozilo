@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\NasljedivanjeKlasaVozilo\NasljedivanjeKlasaVozilo\bin\Debug\NasljedivanjeKlasaVozilo.exe.config
+C:\Users\Mato\source\repos\NasljedivanjeKlasaVozilo\NasljedivanjeKlasaVozilo\bin\Debug\NasljedivanjeKlasaVozilo.exe
+C:\Users\Mato\source\repos\NasljedivanjeKlasaVozilo\NasljedivanjeKlasaVozilo\bin\Debug\NasljedivanjeKlasaVozilo.pdb
+C:\Users\Mato\source\repos\NasljedivanjeKlasaVozilo\NasljedivanjeKlasaVozilo\obj\Debug\NasljedivanjeKlasaVozilo.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\NasljedivanjeKlasaVozilo\NasljedivanjeKlasaVozilo\obj\Debug\NasljedivanjeKlasaVozilo.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\NasljedivanjeKlasaVozilo\NasljedivanjeKlasaVozilo\obj\Debug\NasljedivanjeKlasaVozilo.exe
+C:\Users\Mato\source\repos\NasljedivanjeKlasaVozilo\NasljedivanjeKlasaVozilo\obj\Debug\NasljedivanjeKlasaVozilo.pdb
